@@ -4,18 +4,20 @@
     "url": "https://steamdecktips.com",
     "icon": "https://icons.duckduckgo.com/ip3/steamdecktips.com.ico",
     "slug": "steamdecktips-com",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.81%",
+    "uptimeDay": "99.81%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.81%",
+    "uptimeYear": "99.81%",
     "time": 435,
     "timeDay": 435,
     "timeWeek": 435,
     "timeMonth": 435,
     "timeYear": 435,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-09-03": 0
+    }
   },
   {
     "name": "trabajosoptica.com",
