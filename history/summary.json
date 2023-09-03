@@ -4,19 +4,19 @@
     "url": "https://steamdecktips.com",
     "icon": "https://icons.duckduckgo.com/ip3/steamdecktips.com.ico",
     "slug": "steamdecktips-com",
-    "status": "down",
-    "uptime": "99.81%",
-    "uptimeDay": "99.81%",
-    "uptimeWeek": "99.81%",
-    "uptimeMonth": "99.81%",
-    "uptimeYear": "99.81%",
-    "time": 435,
-    "timeDay": 435,
-    "timeWeek": 435,
-    "timeMonth": 435,
-    "timeYear": 435,
+    "status": "up",
+    "uptime": "86.58%",
+    "uptimeDay": "86.58%",
+    "uptimeWeek": "86.58%",
+    "uptimeMonth": "86.58%",
+    "uptimeYear": "86.58%",
+    "time": 443,
+    "timeDay": 443,
+    "timeWeek": 443,
+    "timeMonth": 443,
+    "timeYear": 443,
     "dailyMinutesDown": {
-      "2023-09-03": 0
+      "2023-09-03": 4
     }
   },
   {
