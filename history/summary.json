@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/steamdecktips.com.ico",
     "slug": "steamdecktips-com",
     "status": "up",
-    "uptime": "86.58%",
-    "uptimeDay": "86.58%",
-    "uptimeWeek": "86.58%",
-    "uptimeMonth": "86.58%",
-    "uptimeYear": "86.58%",
-    "time": 443,
-    "timeDay": 443,
-    "timeWeek": 443,
-    "timeMonth": 443,
-    "timeYear": 443,
-    "dailyMinutesDown": {
-      "2023-09-03": 4
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 465,
+    "timeDay": 465,
+    "timeWeek": 465,
+    "timeMonth": 465,
+    "timeYear": 465,
+    "dailyMinutesDown": {}
   },
   {
     "name": "trabajosoptica.com",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 624,
-    "timeDay": 624,
-    "timeWeek": 624,
-    "timeMonth": 624,
-    "timeYear": 624,
+    "time": 671,
+    "timeDay": 671,
+    "timeWeek": 671,
+    "timeMonth": 671,
+    "timeYear": 671,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 215,
-    "timeDay": 215,
-    "timeWeek": 215,
-    "timeMonth": 215,
-    "timeYear": 215,
+    "time": 189,
+    "timeDay": 189,
+    "timeWeek": 189,
+    "timeMonth": 189,
+    "timeYear": 189,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 257,
-    "timeDay": 257,
-    "timeWeek": 257,
-    "timeMonth": 257,
-    "timeYear": 257,
+    "time": 251,
+    "timeDay": 251,
+    "timeWeek": 251,
+    "timeMonth": 251,
+    "timeYear": 251,
     "dailyMinutesDown": {}
   }
 ]
