@@ -9,6 +9,8 @@ sites:
     url: https://trabajosoptica.com
   - name: horus.dev
     url: https://horus.dev
+  - name: api.horus.dev
+    url: https://api.horus.dev
   - name: atom.horuslugo.com
     url: https://atom.horuslugo.com
 
