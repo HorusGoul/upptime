@@ -6,8 +6,8 @@
     "slug": "steamdecktips-com",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 458,
@@ -15,14 +15,16 @@
     "timeWeek": 451,
     "timeMonth": 469,
     "timeYear": 458,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-14": 2
+    }
   },
   {
     "name": "trabajosoptica.com",
     "url": "https://trabajosoptica.com",
     "icon": "https://icons.duckduckgo.com/ip3/trabajosoptica.com.ico",
     "slug": "trabajosoptica-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,7 +35,9 @@
     "timeWeek": 637,
     "timeMonth": 658,
     "timeYear": 654,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-14": 0
+    }
   },
   {
     "name": "horus.dev",
