@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 440,
-    "timeDay": 393,
-    "timeWeek": 425,
-    "timeMonth": 412,
+    "timeDay": 395,
+    "timeWeek": 402,
+    "timeMonth": 413,
     "timeYear": 440,
     "dailyMinutesDown": {
       "2023-11-14": 44
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 638,
-    "timeDay": 548,
-    "timeWeek": 617,
+    "time": 637,
+    "timeDay": 455,
+    "timeWeek": 569,
     "timeMonth": 624,
-    "timeYear": 638,
+    "timeYear": 637,
     "dailyMinutesDown": {
       "2023-11-14": 42
     }
@@ -46,18 +46,16 @@
     "slug": "horus-dev",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.33%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 181,
-    "timeDay": 474,
-    "timeWeek": 233,
-    "timeMonth": 146,
-    "timeYear": 181,
-    "dailyMinutesDown": {
-      "2024-01-17": 10
-    }
+    "time": 180,
+    "timeDay": 486,
+    "timeWeek": 227,
+    "timeMonth": 148,
+    "timeYear": 180,
+    "dailyMinutesDown": {}
   },
   {
     "name": "api.horus.dev",
@@ -71,9 +69,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 342,
-    "timeDay": 274,
-    "timeWeek": 324,
-    "timeMonth": 334,
+    "timeDay": 260,
+    "timeWeek": 306,
+    "timeMonth": 332,
     "timeYear": 342,
     "dailyMinutesDown": {
       "2023-10-04": 20
@@ -91,9 +89,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 155,
-    "timeDay": 116,
-    "timeWeek": 131,
-    "timeMonth": 125,
+    "timeDay": 158,
+    "timeWeek": 126,
+    "timeMonth": 128,
     "timeYear": 155,
     "dailyMinutesDown": {}
   }
