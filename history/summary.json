@@ -83,19 +83,19 @@
     "url": "https://atom.horuslugo.com",
     "icon": "https://icons.duckduckgo.com/ip3/atom.horuslugo.com.ico",
     "slug": "atom-horuslugo-com",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.14%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 149,
-    "timeDay": 157,
-    "timeWeek": 136,
-    "timeMonth": 137,
+    "timeDay": 174,
+    "timeWeek": 143,
+    "timeMonth": 138,
     "timeYear": 149,
     "dailyMinutesDown": {
-      "2024-03-16": 0
+      "2024-03-16": 12
     }
   }
 ]
