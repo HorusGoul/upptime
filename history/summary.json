@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 459,
-    "timeDay": 420,
-    "timeWeek": 353,
-    "timeMonth": 426,
+    "timeDay": 427,
+    "timeWeek": 357,
+    "timeMonth": 429,
     "timeYear": 467,
     "dailyMinutesDown": {
       "2024-09-01": 43,
@@ -34,9 +34,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 702,
-    "timeDay": 619,
-    "timeWeek": 541,
-    "timeMonth": 726,
+    "timeDay": 600,
+    "timeWeek": 576,
+    "timeMonth": 720,
     "timeYear": 724,
     "dailyMinutesDown": {
       "2024-09-01": 41,
@@ -57,9 +57,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 163,
-    "timeDay": 186,
-    "timeWeek": 226,
-    "timeMonth": 189,
+    "timeDay": 267,
+    "timeWeek": 241,
+    "timeMonth": 194,
     "timeYear": 159,
     "dailyMinutesDown": {}
   },
@@ -75,10 +75,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 345,
-    "timeDay": 413,
-    "timeWeek": 366,
-    "timeMonth": 359,
-    "timeYear": 348,
+    "timeDay": 289,
+    "timeWeek": 360,
+    "timeMonth": 350,
+    "timeYear": 347,
     "dailyMinutesDown": {
       "2024-09-01": 32
     }
@@ -90,17 +90,16 @@
     "slug": "atom-horuslugo-com",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.31%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 177,
-    "timeDay": 160,
-    "timeWeek": 141,
-    "timeMonth": 126,
+    "timeDay": 169,
+    "timeWeek": 147,
+    "timeMonth": 128,
     "timeYear": 187,
     "dailyMinutesDown": {
-      "2025-02-09": 10,
       "2024-07-28": 17
     }
   }
