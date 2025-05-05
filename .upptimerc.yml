@@ -9,10 +9,8 @@ sites:
     url: https://trabajosoptica.com
   - name: horus.dev
     url: https://horus.dev
-  - name: api.horus.dev
-    url: https://api.horus.dev
-  - name: atom.horuslugo.com
-    url: https://atom.horuslugo.com
+  - name: periodictable.pro
+    url: https://periodictable.pro
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
