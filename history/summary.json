@@ -51,18 +51,20 @@
     "url": "https://horus.dev",
     "icon": "https://icons.duckduckgo.com/ip3/horus.dev.ico",
     "slug": "horus-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 232,
-    "timeDay": 459,
-    "timeWeek": 525,
-    "timeMonth": 460,
-    "timeYear": 263,
-    "dailyMinutesDown": {}
+    "time": 233,
+    "timeDay": 501,
+    "timeWeek": 527,
+    "timeMonth": 463,
+    "timeYear": 264,
+    "dailyMinutesDown": {
+      "2025-08-03": 0
+    }
   },
   {
     "name": "periodictable.pro",
