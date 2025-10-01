@@ -16,7 +16,7 @@
     "timeMonth": 17536,
     "timeYear": 2152,
     "dailyMinutesDown": {
-      "2025-10-01": 1077,
+      "2025-10-01": 1092,
       "2025-09-30": 1440,
       "2025-09-29": 1440,
       "2025-09-28": 1440,
@@ -106,19 +106,19 @@
     "url": "https://periodictable.pro",
     "icon": "https://icons.duckduckgo.com/ip3/periodictable.pro.ico",
     "slug": "periodictable-pro",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.01%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
     "time": 250,
-    "timeDay": 550,
-    "timeWeek": 300,
-    "timeMonth": 248,
+    "timeDay": 421,
+    "timeWeek": 285,
+    "timeMonth": 245,
     "timeYear": 250,
     "dailyMinutesDown": {
-      "2025-10-01": 0
+      "2025-10-01": 14
     }
   }
 ]
