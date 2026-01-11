@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 2930,
     "dailyMinutesDown": {
-      "2026-01-11": 392,
+      "2026-01-11": 408,
       "2026-01-10": 1440,
       "2026-01-09": 1440,
       "2026-01-08": 1440,
@@ -211,19 +211,19 @@
     "url": "https://periodictable.pro",
     "icon": "https://icons.duckduckgo.com/ip3/periodictable.pro.ico",
     "slug": "periodictable-pro",
-    "status": "down",
+    "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.89%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
-    "time": 282,
-    "timeDay": 237,
-    "timeWeek": 662,
-    "timeMonth": 396,
-    "timeYear": 282,
+    "time": 285,
+    "timeDay": 675,
+    "timeWeek": 707,
+    "timeMonth": 417,
+    "timeYear": 285,
     "dailyMinutesDown": {
-      "2026-01-11": 0,
+      "2026-01-11": 16,
       "2025-11-18": 105
     }
   }
