@@ -4,21 +4,21 @@
     "url": "https://trabajosoptica.com",
     "icon": "https://icons.duckduckgo.com/ip3/trabajosoptica.com.ico",
     "slug": "trabajosoptica-com",
-    "status": "down",
+    "status": "up",
     "uptime": "99.75%",
-    "uptimeDay": "99.85%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "98.87%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 999,
-    "timeDay": 2982,
-    "timeWeek": 1255,
-    "timeMonth": 998,
-    "timeYear": 1095,
+    "timeDay": 2154,
+    "timeWeek": 1171,
+    "timeMonth": 982,
+    "timeYear": 1093,
     "dailyMinutesDown": {
       "2025-11-23": 26,
       "2026-01-09": 18,
-      "2026-10-16": 2
+      "2026-10-16": 16
     }
   },
   {
@@ -26,23 +26,23 @@
     "url": "https://horus.dev",
     "icon": "https://icons.duckduckgo.com/ip3/horus.dev.ico",
     "slug": "horus-dev",
-    "status": "down",
+    "status": "up",
     "uptime": "99.81%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.01%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.96%",
     "time": 581,
-    "timeDay": 19096,
-    "timeWeek": 5346,
-    "timeMonth": 1700,
-    "timeYear": 618,
+    "timeDay": 12869,
+    "timeWeek": 4798,
+    "timeMonth": 1660,
+    "timeYear": 617,
     "dailyMinutesDown": {
       "2025-11-18": 122,
       "2026-02-12": 24,
       "2026-04-17": 39,
       "2026-04-20": 23,
-      "2026-10-16": 0
+      "2026-10-16": 14
     }
   },
   {
